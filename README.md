@@ -11,7 +11,7 @@
 I'm Oliver, a software engineer who enjoys turning ambiguous problems into dependable, useful products. Lately, I have been exploring agentic systems, personal-finance automation, and the details that make software trustworthy.
 
 ```text
-current_location  = Durham, NC
+current_location  = Massachusetts
 day_job           = Software Engineer @ Dell Technologies
 education         = M.S. ECE @ Duke · CS + Statistics + Math @ UW–Madison
 currently_building= AI agents · automation · full-stack tools
